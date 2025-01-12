@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there! I'm Thejus Varma👋
+Passionate about web development, with a keen interest in exploring and mastering new technologies and frameworks to stay at the forefront of the ever-evolving tech landscape. 
 <!--
 **thejusvarma/thejusvarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
