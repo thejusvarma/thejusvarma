@@ -1,7 +1,10 @@
 ## Hi there! I'm Thejus Varma 👋
-Passionate about web development, with a keen interest in exploring and mastering new technologies and frameworks to stay at the forefront of the ever-evolving tech landscape. 
-My time pass is to sit and learn some technology which matters, like the last time where I sat and studied react native to build a application for greivances.
+Passionate about web development, with a keen interest in exploring and mastering new technologies and frameworks in this evolving tech landscape. 
+I enjoy spending my time exploring new technologies. Recently, I dove into React Native to build a grievance application.
 
+## 🌱 Currently Learning:
+- React Native
+- Docker
 
 ## 💼 Skills:
 
@@ -20,6 +23,7 @@ My time pass is to sit and learn some technology which matters, like the last ti
 
 ### Tools & Technologies:
 ![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-D82C30?style=flat&logo=redis&logoColor=white)
