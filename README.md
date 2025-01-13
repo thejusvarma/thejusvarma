@@ -24,11 +24,11 @@ I enjoy spending my time exploring new technologies. Recently, I dove into React
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### Tools & Technologies:
-![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-D82C30?style=flat&logo=redis&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 <!--
 **thejusvarma/thejusvarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
