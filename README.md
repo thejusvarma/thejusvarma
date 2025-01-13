@@ -1,6 +1,6 @@
 ## Hi there! I'm Thejus Varma 👋
 Passionate about web development, with a keen interest in exploring and mastering new technologies and frameworks in this evolving tech landscape. 
-I enjoy spending my time exploring new technologies. Recently, I dove into React Native to build a grievance application.
+I enjoy spending my time learning. Recently, I dove into React Native to build a grievance application.
 
 ## 🌱 Currently Learning:
 - React Native
